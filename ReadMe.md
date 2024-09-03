@@ -1,1 +1,1 @@
-# Scrapy Project Repository
+# Scrapy Project Using Python
