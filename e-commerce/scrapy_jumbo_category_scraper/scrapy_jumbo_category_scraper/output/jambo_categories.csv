@@ -1,0 +1,188 @@
+Category_Name,Category_url,Main_category_url
+ Koek ,"/producten/koek,-snoep,-chocolade-en-chips/koek/","https://www.jumbo.com/producten/koek,-snoep,-chocolade-en-chips/"
+ Chocolade ,"/producten/koek,-snoep,-chocolade-en-chips/chocolade/","https://www.jumbo.com/producten/koek,-snoep,-chocolade-en-chips/"
+ Snoep ,"/producten/koek,-snoep,-chocolade-en-chips/snoep/","https://www.jumbo.com/producten/koek,-snoep,-chocolade-en-chips/"
+ Drop ,"/producten/koek,-snoep,-chocolade-en-chips/drop/","https://www.jumbo.com/producten/koek,-snoep,-chocolade-en-chips/"
+ Chips en popcorn ,"/producten/koek,-snoep,-chocolade-en-chips/chips-en-popcorn/","https://www.jumbo.com/producten/koek,-snoep,-chocolade-en-chips/"
+ Noten en pinda's ,"/producten/koek,-snoep,-chocolade-en-chips/noten-en-pindas/","https://www.jumbo.com/producten/koek,-snoep,-chocolade-en-chips/"
+ Toastjes en zoutjes ,"/producten/koek,-snoep,-chocolade-en-chips/toastjes-en-zoutjes/","https://www.jumbo.com/producten/koek,-snoep,-chocolade-en-chips/"
+" Kauwgum, mint en keelsnoepjes ","/producten/koek,-snoep,-chocolade-en-chips/kauwgum,-mint-en-keelsnoepjes/","https://www.jumbo.com/producten/koek,-snoep,-chocolade-en-chips/"
+ Ongeschilde aardappelen ,"/producten/aardappel,-rijst,-pasta/ongeschilde-aardappelen/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Biologische aardappelen ,"/producten/aardappel,-rijst,-pasta/biologische-aardappelen/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Koelverse aardappelen ,"/producten/aardappel,-rijst,-pasta/koelverse-aardappelen/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Vriesverse aardappelen ,"/producten/aardappel,-rijst,-pasta/vriesverse-aardappelen/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Aardappelpuree ,"/producten/aardappel,-rijst,-pasta/aardappelpuree/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Zoete aardappelen ,"/producten/aardappel,-rijst,-pasta/zoete-aardappelen/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Pasta ,"/producten/aardappel,-rijst,-pasta/pasta/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Rijst ,"/producten/aardappel,-rijst,-pasta/rijst/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Noedels ,"/producten/aardappel,-rijst,-pasta/noedels/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Mie ,"/producten/aardappel,-rijst,-pasta/mie/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Mihoen ,"/producten/aardappel,-rijst,-pasta/mihoen/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Quinoa ,"/producten/aardappel,-rijst,-pasta/quinoa/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Couscous ,"/producten/aardappel,-rijst,-pasta/couscous/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Bulgur ,"/producten/aardappel,-rijst,-pasta/bulgur/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Boekweit ,"/producten/aardappel,-rijst,-pasta/boekweit/","https://www.jumbo.com/producten/aardappel,-rijst,-pasta/"
+ Frisdrank ,"/producten/fris,-sap,-koffie,-thee/frisdrank/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Energiedranken ,"/producten/fris,-sap,-koffie,-thee/energiedranken/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Sportdranken ,"/producten/fris,-sap,-koffie,-thee/sportdranken/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Water met smaak ,"/producten/fris,-sap,-koffie,-thee/water-met-smaak/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Water ,"/producten/fris,-sap,-koffie,-thee/water/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Limonade siroop ,"/producten/fris,-sap,-koffie,-thee/limonade-siroop/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+" Sappen, dranken ","/producten/fris,-sap,-koffie,-thee/sappen,-dranken/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Cacao ,"/producten/fris,-sap,-koffie,-thee/cacao/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Koffie ,"/producten/fris,-sap,-koffie,-thee/koffie/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Thee ,"/producten/fris,-sap,-koffie,-thee/thee/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Koffiemelk ,"/producten/fris,-sap,-koffie,-thee/koffiemelk/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Suiker ,"/producten/fris,-sap,-koffie,-thee/suiker/","https://www.jumbo.com/producten/fris,-sap,-koffie,-thee/"
+ Groentenpakket ,/producten/groente/groentenpakket/,https://www.jumbo.com/producten/groente/
+" Maaltijdpakket, soeppakket ","/producten/groente/maaltijdpakket,-soeppakket/",https://www.jumbo.com/producten/groente/
+" Sla, spinazie, salade, saladeschotels ","/producten/groente/sla,-spinazie,-salade,-saladeschotels/",https://www.jumbo.com/producten/groente/
+" Tomaten, paprika, komkommer ","/producten/groente/tomaten,-paprika,-komkommer/",https://www.jumbo.com/producten/groente/
+" Peulvruchten, bonen ","/producten/groente/peulvruchten,-bonen/",https://www.jumbo.com/producten/groente/
+" Courgette, Aubergine ","/producten/groente/courgette,-aubergine/",https://www.jumbo.com/producten/groente/
+ Koolgroenten ,/producten/groente/koolgroenten/,https://www.jumbo.com/producten/groente/
+" Witlof, bleekselderij, paksoi ","/producten/groente/witlof,-bleekselderij,-paksoi/",https://www.jumbo.com/producten/groente/
+" Wortels, pompoen, knolgroenten ","/producten/groente/wortels,-pompoen,-knolgroenten/",https://www.jumbo.com/producten/groente/
+ Asperges ,/producten/groente/asperges/,https://www.jumbo.com/producten/groente/
+" Champignons, paddenstoelen ","/producten/groente/champignons,-paddenstoelen/",https://www.jumbo.com/producten/groente/
+" Prei, uien, knoflook, pepers ","/producten/groente/prei,-uien,-knoflook,-pepers/",https://www.jumbo.com/producten/groente/
+ Exotische groenten ,/producten/groente/exotische-groenten/,https://www.jumbo.com/producten/groente/
+ Avocado ,/producten/groente/avocado/,https://www.jumbo.com/producten/groente/
+ Kiemgroenten ,/producten/groente/kiemgroenten/,https://www.jumbo.com/producten/groente/
+ Verse kruiden ,/producten/groente/verse-kruiden/,https://www.jumbo.com/producten/groente/
+ Groenteconserven ,/producten/groente/groenteconserven/,https://www.jumbo.com/producten/groente/
+ Biologische groenten ,/producten/groente/biologische-groenten/,https://www.jumbo.com/producten/groente/
+ Bananen ,/producten/fruit/bananen/,https://www.jumbo.com/producten/fruit/
+" Appels, Peren ","/producten/fruit/appels,-peren/",https://www.jumbo.com/producten/fruit/
+" Aardbeien, frambozen ","/producten/fruit/aardbeien,-frambozen/",https://www.jumbo.com/producten/fruit/
+" Druiven, Kersen ","/producten/fruit/druiven,-kersen/",https://www.jumbo.com/producten/fruit/
+" Bramen, bessen ","/producten/fruit/bramen,-bessen/",https://www.jumbo.com/producten/fruit/
+" Sinaasappels, mandarijnen, citrus ","/producten/fruit/sinaasappels,-mandarijnen,-citrus/",https://www.jumbo.com/producten/fruit/
+ Perziken ,/producten/fruit/perziken/,https://www.jumbo.com/producten/fruit/
+ Nectarines ,/producten/fruit/nectarines/,https://www.jumbo.com/producten/fruit/
+ Pruimen ,/producten/fruit/pruimen/,https://www.jumbo.com/producten/fruit/
+ Avocado ,/producten/fruit/avocado/,https://www.jumbo.com/producten/fruit/
+" Ananas, mango, kiwi, meloen ","/producten/fruit/ananas,-mango,-kiwi,-meloen/",https://www.jumbo.com/producten/fruit/
+ Exotisch fruit ,/producten/fruit/exotisch-fruit/,https://www.jumbo.com/producten/fruit/
+" Fruitsalade, Fruitmix ","/producten/fruit/fruitsalade,-fruitmix/",https://www.jumbo.com/producten/fruit/
+ Vijgen ,/producten/fruit/vijgen/,https://www.jumbo.com/producten/fruit/
+ Vruchtenconserven ,/producten/fruit/vruchtenconserven/,https://www.jumbo.com/producten/fruit/
+ Biologisch fruit ,/producten/fruit/biologisch-fruit/,https://www.jumbo.com/producten/fruit/
+ BBQ ,"/producten/vlees,-vis,-vegetarisch/bbq/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Biologisch ,"/producten/vlees,-vis,-vegetarisch/biologisch/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Gegrild en gegaard ,"/producten/vlees,-vis,-vegetarisch/gegrild-en-gegaard/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+" Gehakt, worst, burgers ","/producten/vlees,-vis,-vegetarisch/gehakt,-worst,-burgers/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Gourmetten ,"/producten/vlees,-vis,-vegetarisch/gourmetten/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Halal ,"/producten/vlees,-vis,-vegetarisch/halal/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Horecakwaliteit vlees ,"/producten/vlees,-vis,-vegetarisch/horecakwaliteit-vlees/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Kalkoen ,"/producten/vlees,-vis,-vegetarisch/kalkoen/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Kip ,"/producten/vlees,-vis,-vegetarisch/kip/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+" Ovenschotels, schalen ","/producten/vlees,-vis,-vegetarisch/ovenschotels,-schalen/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Rundvlees ,"/producten/vlees,-vis,-vegetarisch/rundvlees/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Varkensvlees ,"/producten/vlees,-vis,-vegetarisch/varkensvlees/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+" Vegetarisch, vleesvervangers ","/producten/vlees,-vis,-vegetarisch/vegetarisch,-vleesvervangers/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Vis ,"/producten/vlees,-vis,-vegetarisch/vis/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Visconserven ,"/producten/vlees,-vis,-vegetarisch/visconserven/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Vleesconserven ,"/producten/vlees,-vis,-vegetarisch/vleesconserven/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Wild ,"/producten/vlees,-vis,-vegetarisch/wild/","https://www.jumbo.com/producten/vlees,-vis,-vegetarisch/"
+ Maaltijdpakketten ,"/producten/koken,-soepen,-maaltijden/maaltijdpakketten/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+" Verse kant en klare maaltijden, snacks ","/producten/koken,-soepen,-maaltijden/verse-kant-en-klare-maaltijden,-snacks/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+ Hollandse keuken ,"/producten/koken,-soepen,-maaltijden/hollandse-keuken/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+ Italiaanse keuken ,"/producten/koken,-soepen,-maaltijden/italiaanse-keuken/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+ Oosterse keuken ,"/producten/koken,-soepen,-maaltijden/oosterse-keuken/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+ Mexicaanse keuken ,"/producten/koken,-soepen,-maaltijden/mexicaanse-keuken/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+ Meer wereldkeukens ,"/producten/koken,-soepen,-maaltijden/meer-wereldkeukens/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+" Soep, soepverrijking ","/producten/koken,-soepen,-maaltijden/soep,-soepverrijking/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+" Kruiden, specerijen ","/producten/koken,-soepen,-maaltijden/kruiden,-specerijen/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+" Sauzen, dressing, tafelzuren ","/producten/koken,-soepen,-maaltijden/sauzen,-dressing,-tafelzuren/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+" Olie, frituurvet, azijn, bakboter ","/producten/koken,-soepen,-maaltijden/olie,-frituurvet,-azijn,-bakboter/","https://www.jumbo.com/producten/koken,-soepen,-maaltijden/"
+" Beschuit, crackers en rijstwafels ","/producten/ontbijt,-broodbeleg-en-bakproducten/beschuit,-crackers-en-rijstwafels/","https://www.jumbo.com/producten/ontbijt,-broodbeleg-en-bakproducten/"
+ Zoet broodbeleg ,"/producten/ontbijt,-broodbeleg-en-bakproducten/zoet-broodbeleg/","https://www.jumbo.com/producten/ontbijt,-broodbeleg-en-bakproducten/"
+ Ontbijtgranen ,"/producten/ontbijt,-broodbeleg-en-bakproducten/ontbijtgranen/","https://www.jumbo.com/producten/ontbijt,-broodbeleg-en-bakproducten/"
+" Mueslirepen, biscuits en ontbijtkoek ","/producten/ontbijt,-broodbeleg-en-bakproducten/mueslirepen,-biscuits-en-ontbijtkoek/","https://www.jumbo.com/producten/ontbijt,-broodbeleg-en-bakproducten/"
+ Bakproducten ,"/producten/ontbijt,-broodbeleg-en-bakproducten/bakproducten/","https://www.jumbo.com/producten/ontbijt,-broodbeleg-en-bakproducten/"
+ Bewuste voeding ,"/producten/ontbijt,-broodbeleg-en-bakproducten/bewuste-voeding/","https://www.jumbo.com/producten/ontbijt,-broodbeleg-en-bakproducten/"
+" Afwassen, vaatwasmiddelen ","/producten/huishouden,-dieren,-servicebalie/afwassen,-vaatwasmiddelen/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+" Wasmiddelen, wasverzachters ","/producten/huishouden,-dieren,-servicebalie/wasmiddelen,-wasverzachters/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Schoonmaakmiddelen ,"/producten/huishouden,-dieren,-servicebalie/schoonmaakmiddelen/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Schoonmaakartikelen ,"/producten/huishouden,-dieren,-servicebalie/schoonmaakartikelen/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Luchtverfrissers ,"/producten/huishouden,-dieren,-servicebalie/luchtverfrissers/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+" Toiletpapier, keukenpapier ","/producten/huishouden,-dieren,-servicebalie/toiletpapier,-keukenpapier/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+" Zakken, folie ","/producten/huishouden,-dieren,-servicebalie/zakken,-folie/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Huishoudelijk ,"/producten/huishouden,-dieren,-servicebalie/huishoudelijk/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Kantoorartikelen ,"/producten/huishouden,-dieren,-servicebalie/kantoorartikelen/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Tijdschriften ,"/producten/huishouden,-dieren,-servicebalie/tijdschriften/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+" Tafelen, feestartikelen ","/producten/huishouden,-dieren,-servicebalie/tafelen,-feestartikelen/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Tabak ,"/producten/huishouden,-dieren,-servicebalie/tabak/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Servicebalie ,"/producten/huishouden,-dieren,-servicebalie/servicebalie/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Bloemen en planten ,"/producten/huishouden,-dieren,-servicebalie/bloemen-en-planten/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Huisdieren ,"/producten/huishouden,-dieren,-servicebalie/huisdieren/","https://www.jumbo.com/producten/huishouden,-dieren,-servicebalie/"
+ Mondverzorging ,/producten/drogisterij/mondverzorging/,https://www.jumbo.com/producten/drogisterij/
+ Gezichtsverzorging ,/producten/drogisterij/gezichtsverzorging/,https://www.jumbo.com/producten/drogisterij/
+" Shampoo, conditioner ","/producten/drogisterij/shampoo,-conditioner/",https://www.jumbo.com/producten/drogisterij/
+ Haarstyling ,/producten/drogisterij/haarstyling/,https://www.jumbo.com/producten/drogisterij/
+ Scheren ,/producten/drogisterij/scheren/,https://www.jumbo.com/producten/drogisterij/
+" Douche, bad ","/producten/drogisterij/douche,-bad/",https://www.jumbo.com/producten/drogisterij/
+ Deodorant ,/producten/drogisterij/deodorant/,https://www.jumbo.com/producten/drogisterij/
+ Intieme hygiene ,/producten/drogisterij/intieme-hygiene/,https://www.jumbo.com/producten/drogisterij/
+" Handzeep, handcrème ","/producten/drogisterij/handzeep,-handcreme/",https://www.jumbo.com/producten/drogisterij/
+" Bodylotion, bodymilk, bodycrème ","/producten/drogisterij/bodylotion,-bodymilk,-bodycreme/",https://www.jumbo.com/producten/drogisterij/
+ Zonbescherming ,/producten/drogisterij/zonbescherming/,https://www.jumbo.com/producten/drogisterij/
+ Speciaal voor mannen ,/producten/drogisterij/speciaal-voor-mannen/,https://www.jumbo.com/producten/drogisterij/
+" Zakdoekjes, tissues ","/producten/drogisterij/zakdoekjes,-tissues/",https://www.jumbo.com/producten/drogisterij/
+" Vitamines, medicijnen ","/producten/drogisterij/vitamines,-medicijnen/",https://www.jumbo.com/producten/drogisterij/
+ Babymelk ,"/producten/baby,-peuter/babymelk/","https://www.jumbo.com/producten/baby,-peuter/"
+ Baby maaltijden ,"/producten/baby,-peuter/baby-maaltijden/","https://www.jumbo.com/producten/baby,-peuter/"
+ Babypap ,"/producten/baby,-peuter/babypap/","https://www.jumbo.com/producten/baby,-peuter/"
+ Babyfruit ,"/producten/baby,-peuter/babyfruit/","https://www.jumbo.com/producten/baby,-peuter/"
+ Babyvoeding overig ,"/producten/baby,-peuter/babyvoeding-overig/","https://www.jumbo.com/producten/baby,-peuter/"
+ Luiers ,"/producten/baby,-peuter/luiers/","https://www.jumbo.com/producten/baby,-peuter/"
+ Broekjes ,"/producten/baby,-peuter/broekjes/","https://www.jumbo.com/producten/baby,-peuter/"
+ Babydoekjes ,"/producten/baby,-peuter/babydoekjes/","https://www.jumbo.com/producten/baby,-peuter/"
+ Babyverzorging ,"/producten/baby,-peuter/babyverzorging/","https://www.jumbo.com/producten/baby,-peuter/"
+ Babyspulletjes ,"/producten/baby,-peuter/babyspulletjes/","https://www.jumbo.com/producten/baby,-peuter/"
+" Baby sappen, siropen ","/producten/baby,-peuter/baby-sappen,-siropen/","https://www.jumbo.com/producten/baby,-peuter/"
+ Pizza ,/producten/diepvries/pizza/,https://www.jumbo.com/producten/diepvries/
+ Snacks ,/producten/diepvries/snacks/,https://www.jumbo.com/producten/diepvries/
+ Aardappelproducten ,/producten/diepvries/aardappelproducten/,https://www.jumbo.com/producten/diepvries/
+ Groente ,/producten/diepvries/groente/,https://www.jumbo.com/producten/diepvries/
+ Fruit ,/producten/diepvries/fruit/,https://www.jumbo.com/producten/diepvries/
+ Maaltijden ,/producten/diepvries/maaltijden/,https://www.jumbo.com/producten/diepvries/
+ Vis ,/producten/diepvries/vis/,https://www.jumbo.com/producten/diepvries/
+ Vlees en gevogelte ,/producten/diepvries/vlees-en-gevogelte/,https://www.jumbo.com/producten/diepvries/
+ IJs ,/producten/diepvries/ijs/,https://www.jumbo.com/producten/diepvries/
+" Brood, deeg en gebak ","/producten/diepvries/brood,-deeg-en-gebak/",https://www.jumbo.com/producten/diepvries/
+ Kruiden ,/producten/diepvries/kruiden/,https://www.jumbo.com/producten/diepvries/
+ Dierenvoeding ,/producten/diepvries/dierenvoeding/,https://www.jumbo.com/producten/diepvries/
+ Babyvoeding ,/producten/diepvries/babyvoeding/,https://www.jumbo.com/producten/diepvries/
+" Bier, pils ","/producten/bier-en-wijn/bier,-pils/",https://www.jumbo.com/producten/bier-en-wijn/
+ Speciaalbier ,/producten/bier-en-wijn/speciaalbier/,https://www.jumbo.com/producten/bier-en-wijn/
+" Radler, Mexicaans en cider ","/producten/bier-en-wijn/radler,-mexicaans-en-cider/",https://www.jumbo.com/producten/bier-en-wijn/
+ Alcoholvrij bier ,/producten/bier-en-wijn/alcoholvrij-bier/,https://www.jumbo.com/producten/bier-en-wijn/
+ Witte wijn ,/producten/bier-en-wijn/witte-wijn/,https://www.jumbo.com/producten/bier-en-wijn/
+ Rode wijn ,/producten/bier-en-wijn/rode-wijn/,https://www.jumbo.com/producten/bier-en-wijn/
+ Rosé wijn ,/producten/bier-en-wijn/rose-wijn/,https://www.jumbo.com/producten/bier-en-wijn/
+ Bubbels ,/producten/bier-en-wijn/bubbels/,https://www.jumbo.com/producten/bier-en-wijn/
+" Port, sherry en vermouth ","/producten/bier-en-wijn/port,-sherry-en-vermouth/",https://www.jumbo.com/producten/bier-en-wijn/
+ Meer aperitieven ,/producten/bier-en-wijn/meer-aperitieven/,https://www.jumbo.com/producten/bier-en-wijn/
+ Mixdrankjes en likeuren ,/producten/bier-en-wijn/mixdrankjes-en-likeuren/,https://www.jumbo.com/producten/bier-en-wijn/
+ Sterke dranken ,/producten/bier-en-wijn/sterke-dranken/,https://www.jumbo.com/producten/bier-en-wijn/
+ Bierpakketten ,/producten/bier-en-wijn/bierpakketten/,https://www.jumbo.com/producten/bier-en-wijn/
+ Wijnproeverij ,/producten/bier-en-wijn/wijnproeverij/,https://www.jumbo.com/producten/bier-en-wijn/
+ Verse melk en zuiveldrank ,"/producten/zuivel,-eieren,-boter/verse-melk-en-zuiveldrank/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+ Houdbare melk en zuivel ,"/producten/zuivel,-eieren,-boter/houdbare-melk-en-zuivel/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+ Yoghurt en kwark ,"/producten/zuivel,-eieren,-boter/yoghurt-en-kwark/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+" Vla, pap en toetjes ","/producten/zuivel,-eieren,-boter/vla,-pap-en-toetjes/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+ Zuivel tussendoortjes ,"/producten/zuivel,-eieren,-boter/zuivel-tussendoortjes/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+" Slagroom, crème fraîche, kookroom ","/producten/zuivel,-eieren,-boter/slagroom,-creme-fraiche,-kookroom/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+ Boter om mee te koken ,"/producten/zuivel,-eieren,-boter/boter-om-mee-te-koken/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+ Boter voor op brood ,"/producten/zuivel,-eieren,-boter/boter-voor-op-brood/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+ Eieren ,"/producten/zuivel,-eieren,-boter/eieren/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+ Plantaardig ,"/producten/zuivel,-eieren,-boter/plantaardig/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+ Lactosevrij ,"/producten/zuivel,-eieren,-boter/lactosevrij/","https://www.jumbo.com/producten/zuivel,-eieren,-boter/"
+ Broden ,/producten/brood-en-gebak/broden/,https://www.jumbo.com/producten/brood-en-gebak/
+ Afbakbrood ,/producten/brood-en-gebak/afbakbrood/,https://www.jumbo.com/producten/brood-en-gebak/
+" Bolletjes, puntjes ","/producten/brood-en-gebak/bolletjes,-puntjes/",https://www.jumbo.com/producten/brood-en-gebak/
+ Gebak ,/producten/brood-en-gebak/gebak/,https://www.jumbo.com/producten/brood-en-gebak/
+ Zoet brood ,/producten/brood-en-gebak/zoet-brood/,https://www.jumbo.com/producten/brood-en-gebak/
+ Hartig brood ,/producten/brood-en-gebak/hartig-brood/,https://www.jumbo.com/producten/brood-en-gebak/
